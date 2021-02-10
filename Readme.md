@@ -43,6 +43,9 @@ Username: customer@gmail.com
 
 Password: user
 
+#Email:
+Sent email can be seen at https://mailtrap.io/ as user (r.afser01@gmail.com)
+
 ## Database Schema Diagram
 
 !["Database Schema Diagram"](https://github.com/anantjain6/ProductManagementSystem/blob/master/document/schema.png)
